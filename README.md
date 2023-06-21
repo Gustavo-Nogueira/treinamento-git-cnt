@@ -1,3 +1,5 @@
 # treinamento-git-cnt
-dsadasfjefvunfvjdk
+
+modificacao da branch "exemplo_conflito"
+
 ## titulo 2
